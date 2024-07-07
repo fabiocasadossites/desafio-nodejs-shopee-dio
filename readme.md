@@ -57,3 +57,5 @@ Neste projeto, desenvolvi a implementação de um sistema de carrinho de compras
 </p>
 <br/>
 <p>
+
+💻 com ❤️ por [Fabio Augusto](https://github.com/fabiocasadossites)
