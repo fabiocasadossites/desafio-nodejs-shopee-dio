@@ -25,7 +25,7 @@ Neste projeto, desenvolvi a implementação de um sistema de carrinho de compras
 3. Atualize o projeto, Em seu terminal e na pasta do projeto
 
    ```bash
-   npm start
+   npm install
    ```
 
 4. Rodar o projeto
